@@ -2,15 +2,32 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>HTML Boilerplate</title>
+        <title>List of Memorable Movie Scenes</title>
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="DESCRIPTION GOES HERE" />
-        <meta name="author" content="AUTHOR NAME GOES HERE" />
+        <meta name="description" content="A list of memorable movie scenes" />
+        <meta name="author" content="Alonso del Arte" />
         <link rel="stylesheet" type="text/css" href="css/main.css" />
+        <script type="text/javascript" src="main.js"></script>
     </head>
     <body>
-        <h1>HTML Boilerplate</h1>
-        <p>Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text. Filler text.</p>
+        <h1>List of Memorable Movie Scenes</h1>
+        <p><font color="red">WORK IN PROGRESS</font></p>
+        <p>This is going to be a list of memorable movie scenes.</p>
+        <div id="movieData"></div>
+        <script type="text/javascript"><!-- 
+                // The following with help from
+// https://stackoverflow.com/questions/12070631/how-to-use-json-file-in-html-code
+                    fetch('scenelist.json')
+        .then(function (response) {
+            return response.json();
+        })
+        .then(function (data) {
+            appendData(data);
+        })
+        .catch(function (err) {
+            console.log('error: ' + err);
+        });
+        // --></script>
     </body>
 </html>
