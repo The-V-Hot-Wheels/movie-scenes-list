@@ -1,1 +1,9 @@
-body {}
+body { background-color: black; color: white }
+a:link { color: #fc0 }
+a:visited { color: #c90 }
+a:hover { color: #ff3 }
+a:active { background-color: #933 }
+::selection { background-color: blue }
+::-moz-selection { background-color: blue }
+/* a::selection { color: green }
+a::-moz-selection { color: green } */

@@ -1,2 +1,6 @@
-h1, h2, h3 {}
-h2.movieTitle {}
+@import "dark.css" (prefers-color-scheme: dark);
+@import "light.css" (prefers-color-scheme: light);
+
+h1, h2, h3 { font-family: Palatino, Georgia, serif }
+h2.movieTitle { font-style: italic }
+p { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif }
