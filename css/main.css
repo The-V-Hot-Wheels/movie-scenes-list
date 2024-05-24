@@ -6,3 +6,4 @@ h2.movieTitle { font-style: italic }
 p { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif }
 a { text-decoration: none }
 a:hover { font-weight: bold; text-decoration: underline }
+img.poster { float: left }
