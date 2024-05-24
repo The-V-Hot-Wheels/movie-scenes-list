@@ -4,7 +4,7 @@
         "movieTitle": "Star Wars: Episode IV &mdash; A New Hope",
         "director": "George Lucas", "writer": "George Lucas",
         "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
-        "imdbID": "tt0076759"
+        "imdbID": "tt0076759", "posterURL": "images/placeholder.svg"
     },
     {
         "scene": "Darth Vader tells Luke that Obi-Wan didn't tell Luke the truth about Luke's father",
@@ -12,13 +12,13 @@
         "director": "Irvin Kershner", 
         "writer": "Leigh Brackett, Lawrence Kasdan, George Lucas",
         "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
-        "imdbID": "tt0080684"
+        "imdbID": "tt0080684", "posterURL": "images/placeholder.svg"
     },
     {
         "scene": "Admiral Ackbar says \"It's a trap!\"",
         "movieTitle": "Star Wars: Episode VI &mdash; Return of the Jedi",
         "director": "Richard Marquand", "writer": "Lawrence Kasdan, George Lucas",
         "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
-        "imdbID": "tt0086190"
+        "imdbID": "tt0086190", "posterURL": "images/placeholder.svg"
     }
 ]
