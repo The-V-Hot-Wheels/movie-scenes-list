@@ -8,6 +8,28 @@
         "imdbID": "tt0133093", "posterURL": "../images/placeholder.svg"
     },
     {
+        "scene": "Obi-Wan tells the Stormtroopers \"These aren't the droids you're looking for\"",
+        "movieTitle": "Star Wars: Episode IV &mdash; A New Hope",
+        "director": "George Lucas", "writer": "George Lucas",
+        "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
+        "imdbID": "tt0076759", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Darth Vader tells Luke that Obi-Wan didn't tell Luke the truth about Luke's father",
+        "movieTitle": "Star Wars: Episode V &mdash; The Empire Strikes Back",
+        "director": "Irvin Kershner", 
+        "writer": "Leigh Brackett, Lawrence Kasdan, George Lucas",
+        "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
+        "imdbID": "tt0080684", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Admiral Ackbar says \"It's a trap!\"",
+        "movieTitle": "Star Wars: Episode VI &mdash; Return of the Jedi",
+        "director": "Richard Marquand", "writer": "Lawrence Kasdan, George Lucas",
+        "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
+        "imdbID": "tt0086190", "posterURL": "../images/placeholder.svg"
+    },
+    {
         "scene": "Something happens",
         "movieTitle": "The Placeholder II: The Return",
         "director": "Lucia Smith", "writer": "John Lopez",

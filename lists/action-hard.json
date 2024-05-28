@@ -1,5 +1,28 @@
 [
     {
+        "scene": "General Hux makes a Hitler-like speech",
+        "movieTitle": "Star Wars: Episode VII &mdash; The Force Awakens",
+        "director": "J.&nbsp;J. Abrams", 
+        "writer": "Lawrence Kasdan, J.&nbsp;J. Abrams, Michael Arndt",
+        "stars": "Daisy Ridley, John Boyega, Oscar Isaac",
+        "imdbID": "tt2488496", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Yoda burns the books that Rey hasn't read",
+        "movieTitle": "Star Wars: Episode VIII &mdash; The Last Jedi",
+        "director": "Rian Johnson", "writer": "Rian Johnson, George Lucas",
+        "stars": "Daisy Ridley, John Boyega, Mark Hamill",
+        "imdbID": "tt2527336", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Stormtroopers can fly now",
+        "movieTitle": "Star Wars: Episode IX &mdash; Rise of Skywalker",
+        "director": "J.&nbsp;J. Abrams", 
+        "writer": "Chris Terrio, J.&nbsp;J. Abrams, Derek Connolly",
+        "stars": "Daisy Ridley, John Boyega, Oscar Isaac",
+        "imdbID": "tt2527338", "posterURL": "../images/placeholder.svg"
+    },
+    {
         "scene": "Something happens",
         "movieTitle": "The Placeholder",
         "director": "Lucia Smith", "writer": "John Lopez",

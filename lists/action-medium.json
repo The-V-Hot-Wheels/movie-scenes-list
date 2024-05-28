@@ -1,5 +1,27 @@
 [
     {
+        "scene": "Little Anakin Skywalker meets Jar Jar Binks",
+        "movieTitle": "Star Wars: Episode I &mdash; The Phantom Menace",
+        "director": "George Lucas", "writer": "George Lucas",
+        "stars": "Ewan McGregor, Liam Neeson, Natalie Portman",
+        "imdbID": "tt0120915", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Anakin Skywalker makes an apple float to Padm&eacute; Amidala",
+        "movieTitle": "Star Wars: Episode II &mdash; Attack of the Clones",
+        "director": "George Lucas", "writer": "George Lucas, Jonathan Hales",
+        "stars": "Hayden Christensen, Natalie Portman, Ewan McGregor",
+        "imdbID": "tt0121765", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Darth Vader and Obi-Wan Kenobi fight in the place with lava",
+        "movieTitle": "Star Wars: Episode III &mdash; Revenge of the Sith",
+        "director": "George Lucas", 
+        "writer": "George Lucas, John Ostrander, Jan Duursema",
+        "stars": "Hayden Christensen, Natalie Portman, Ewan McGregor",
+        "imdbID": "tt0121766", "posterURL": "../images/placeholder.svg"
+    },
+    {
         "scene": "Something happens",
         "movieTitle": "The Placeholder",
         "director": "Lucia Smith", "writer": "John Lopez",
