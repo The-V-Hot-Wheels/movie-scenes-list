@@ -15,7 +15,7 @@ function appendData(data) {
         let sceneDescription = 
             '<p class="sceneDesc"><b>Draw the scene in which:</b> ' + 
             data[i].scene + '</p>'
-        div.innerHTML = poster + title + '<ul>' + director + writer + 
+        div.innerHTML = poster + title + '<ul>' + director + writer + stars + 
             imdbPageLink + '</ul>' + sceneDescription + '<hr />';
         mainContainer.appendChild(div);
     }
