@@ -1,0 +1,73 @@
+[
+    {
+        "scene": "Trinity suspended in the air to deliver a kick",
+        "movieTitle": "The Matrix",
+        "director": "Lana Wachowski, Lilly Wachowski", 
+        "writer": "Lilly Wachowski, Lana Wachowski",
+        "stars": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "imdbID": "tt0133093", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Something happens",
+        "movieTitle": "The Placeholder II: The Return",
+        "director": "Lucia Smith", "writer": "John Lopez",
+        "stars": "Mark Johnson, Harrison Ofoloyowe, Carrie Gonzalez",
+        "imdbID": "tt0000000", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Something happens",
+        "movieTitle": "The Placeholder III: Awakening",
+        "director": "Lucia Smith", "writer": "John Lopez",
+        "stars": "Mark Johnson, Harrison Ofoloyowe, Carrie Gonzalez",
+        "imdbID": "tt0000000", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Something happens",
+        "movieTitle": "The Placeholder IV: The Tale of the Fish",
+        "director": "Lucia Smith", "writer": "John Lopez",
+        "stars": "Mark Johnson, Harrison Ofoloyowe, Carrie Gonzalez",
+        "imdbID": "tt0000000", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Something happens",
+        "movieTitle": "The Placeholder V: Return to Over There",
+        "director": "Lucia Smith", "writer": "John Lopez",
+        "stars": "Mark Johnson, Harrison Ofoloyowe, Carrie Gonzalez",
+        "imdbID": "tt0000000", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Something happens",
+        "movieTitle": "The Placeholder VI: Rumblings of War",
+        "director": "Lucia Smith", "writer": "John Lopez",
+        "stars": "Mark Johnson, Harrison Ofoloyowe, Carrie Gonzalez",
+        "imdbID": "tt0000000", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Something happens",
+        "movieTitle": "The Placeholder VII: Shadows",
+        "director": "Lucia Smith", "writer": "John Lopez",
+        "stars": "Mark Johnson, Harrison Ofoloyowe, Carrie Gonzalez",
+        "imdbID": "tt0000000", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Something happens",
+        "movieTitle": "The Placeholder VIII: Harmonia Mundi",
+        "director": "Lucia Smith", "writer": "John Lopez",
+        "stars": "Mark Johnson, Harrison Ofoloyowe, Carrie Gonzalez",
+        "imdbID": "tt0000000", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Something happens",
+        "movieTitle": "The Placeholder IX: The Others",
+        "director": "Lucia Smith", "writer": "John Lopez",
+        "stars": "Mark Johnson, Harrison Ofoloyowe, Carrie Gonzalez",
+        "imdbID": "tt0000000", "posterURL": "../images/placeholder.svg"
+    },
+    {
+        "scene": "Something happens",
+        "movieTitle": "The Placeholder X: Subtitle",
+        "director": "Lucia Smith", "writer": "John Lopez",
+        "stars": "Mark Johnson, Harrison Ofoloyowe, Carrie Gonzalez",
+        "imdbID": "tt0000000", "posterURL": "../images/placeholder.svg"
+    }
+]
